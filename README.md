@@ -6,3 +6,5 @@ The Yukon Chinook fishery has seen historical lows for many years, with commerci
 
 ## Timeline
 Data has been collected on the Yukon by YDFDA since 2014 on juvenile salmon and river health.
+
+Two trials will be run at the Science Center to build out the bioenergetic model. The first trial will be in October of 2025 and the second will be in May of 2026.
