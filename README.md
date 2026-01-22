@@ -9,5 +9,7 @@ Data has been collected on the Yukon by YDFDA since 2014 on juvenile salmon and 
 
 ## Lab Space Overview
 The lab contains 18 experiment tanks with flow control and air stones to control oxygen saturation. The lab has 6 mixing tanks to heat/chill water to up to 6 different temperatures. The lab is also equipped with full-spectrum UV lights to mimic sunlight for the experiments.
+<img src="Photos/NPRB_Chinook_Wet_lab_photo.HEIC" alt="Sample Image" title="Wet Lab Before" style="width:50%; height:auto;">
 
+<img src="Photos/NPRB_Chinook_Wet_lab_exptanks.jpg" alt="Sample Image" title="Wet Lab After" style="width:50%; height:auto;">
 
