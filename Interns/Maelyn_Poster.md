@@ -1,1 +1,1 @@
-<img src="Photos/Roles of a River Science Educational Infographic in Blue and Green Bold Illustrative Style.jpg" alt="Sample Image" title="Wet Lab After" style="width:50%; height:auto;">
+<img src="Photos/Roles_of_a_River_Science_Educational_Infographic.jpg" alt="Sample Image" title="Wet Lab After" style="width:50%; height:auto;">
