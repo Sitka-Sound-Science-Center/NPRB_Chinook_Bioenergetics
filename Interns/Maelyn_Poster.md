@@ -1,1 +1,0 @@
-<img src="NPRB_Chinook_Bioenergetics/Photos/Roles_of_a_River_Science_Educational_Infographic.jpg" alt="Sample Image" title="Wet Lab After" styly = " height:auto;">
