@@ -14,3 +14,23 @@ The lab contains 18 experiment tanks with flow control and air stones to control
 
 <img src="Photos/NPRB_Chinook_Wet_lab_exptanks.jpg" alt="Sample Image" title="Wet Lab After" style="width:50%; height:auto;">
 
+![Uploading Freshwater.png…]()
+
+
+## Equipment Overview
+The lab space is designed to change depending on experimental needs so this list might not include all hardware needed depending on the experimental design.
+### Pumps Used
+
+
+### Water filtration
+
+### Full Spectrum Lighting
+
+### Heaters
+
+### Chillers
+
+### Plumbing
+
+### Mixing Valves
+Mixing valves control the temperature and flow into the mixing tanks
