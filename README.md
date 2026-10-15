@@ -23,14 +23,16 @@ The lab space is designed to change depending on experimental needs so this list
 
 
 ### Water filtration
+All incoming water can be run through filter baskets, currently 300 microns, and all freshwater is treated with UV filtration. Outflow can be treated with UV if need be.
 
 ### Full Spectrum Lighting
+Lighting in basement can be 
 
 ### Heaters
 
 ### Chillers
 
 ### Plumbing
-
+All plumbing is PVC or CPVC to ensure no adverse reactions to fresh or saltwater. 
 ### Mixing Valves
-Mixing valves control the temperature and flow into the mixing tanks
+Mixing valves control the temperature and flow into the mixing tanks. Mixing valves are from [Haas Manufacturing Company](https://www.hassmfg.com/search.pl/1745426401-51377?keyword=zoom&new_pn=1050)
