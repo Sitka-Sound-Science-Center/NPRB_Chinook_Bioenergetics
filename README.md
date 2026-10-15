@@ -20,6 +20,10 @@ The lab contains 18 experiment tanks with flow control and air stones to control
 ## Equipment Overview
 The lab space is designed to change depending on experimental needs so this list might not include all hardware needed depending on the experimental design.
 ### Pumps Used
+There are three steps involving pumps throughout the system:
+1. The first is in the hot and cold sump loops, the pumps used are [Pentair's Taurus Variable Speed Pump](https://pentairaes.com/taurus-vs-pump)
+2. From the hot and cold sumps to the mixing tanks [Pentair's Sparus Pump](https://pentairaes.com/taurus-vs-pump)
+3. Magnetic drive submersible pumps run water from the mixing tanks to experiment tanks. [Pentair's MD9 Mag Drive Pump](https://pentairaes.com/danner-magnetic-drive-pumps)
 
 
 ### Water filtration
@@ -30,8 +34,10 @@ Lighting in basement provides full spectrum coverage for the wetlab footprint. L
 [Mars Hydro Full Spectrum Lights](https://www.amazon.com/MARS-HYDRO-Commercial-Hydroponic-Greenhouse/dp/B07VPF7KKR?pd_rd_w=5i2Zo&content-id=amzn1.sym.f3626488-c5a2-4cac-9b1d-06aacb66c381&pf_rd_p=f3626488-c5a2-4cac-9b1d-06aacb66c381&pf_rd_r=R0SMJ2KHRHJABH0MNFJC&pd_rd_wg=4UIEo&pd_rd_r=87d2dc4a-a4ac-4d8a-bf24-9bfc959acab9&pd_rd_i=B07VPF7KKR&ref_=pd_bap_d_grid_rp_0_5_t&th=1)
 
 ### Heaters
+The main heating system is a plate heat exchanger connected to the buildings main boiler system. Auxiliary heat is provided by 3x hot tub heaters run in-line on the hot sump heating loop.
 
 ### Chillers
+The chiller used is an aqualogic chiller
 
 ### Plumbing
 All plumbing is PVC or CPVC to ensure no adverse reactions to fresh or saltwater. 
