@@ -26,7 +26,8 @@ The lab space is designed to change depending on experimental needs so this list
 All incoming water can be run through filter baskets, currently 300 microns, and all freshwater is treated with UV filtration. Outflow can be treated with UV if need be.
 
 ### Full Spectrum Lighting
-Lighting in basement can be 
+Lighting in basement provides full spectrum coverage for the wetlab footprint. Lights can be programmed to the desired daylight cycle.
+[Mars Hydro Full Spectrum Lights](https://www.amazon.com/MARS-HYDRO-Commercial-Hydroponic-Greenhouse/dp/B07VPF7KKR?pd_rd_w=5i2Zo&content-id=amzn1.sym.f3626488-c5a2-4cac-9b1d-06aacb66c381&pf_rd_p=f3626488-c5a2-4cac-9b1d-06aacb66c381&pf_rd_r=R0SMJ2KHRHJABH0MNFJC&pd_rd_wg=4UIEo&pd_rd_r=87d2dc4a-a4ac-4d8a-bf24-9bfc959acab9&pd_rd_i=B07VPF7KKR&ref_=pd_bap_d_grid_rp_0_5_t&th=1)
 
 ### Heaters
 
