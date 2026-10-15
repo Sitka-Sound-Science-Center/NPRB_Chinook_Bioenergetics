@@ -14,6 +14,7 @@ The lab contains 18 experiment tanks with flow control and air stones to control
 
 <img src="Photos/NPRB_Chinook_Wet_lab_exptanks.jpg" alt="Sample Image" title="Wet Lab After" style="width:50%; height:auto;">
 
+<img width="1920" height="1080" alt="Freshwater (1)" src="https://github.com/user-attachments/assets/cbeb6115-4ea1-4ee8-b5af-566c980135ad" />
 
 
 ## Equipment Overview
@@ -35,5 +36,4 @@ Lighting in basement provides full spectrum coverage for the wetlab footprint. L
 ### Plumbing
 All plumbing is PVC or CPVC to ensure no adverse reactions to fresh or saltwater. 
 ### Mixing Valves
-Mixing valves control the temperature and flow into the mixing tanks. Mixing valves are from [Haas Manufacturing Company](<img width="1920" height="1080" alt="Freshwater (1)" src="https://github.com/user-attachments/assets/3a7849f9-3d15-4da9-becc-8e84cbc1b0b7" />
-)
+Mixing valves control the temperature and flow into the mixing tanks. Mixing valves are from [Haas Manufacturing Company](https://www.hassmfg.com/search.pl/1745426401-51377?keyword=zoom&new_pn=1050)
