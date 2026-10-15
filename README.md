@@ -14,7 +14,7 @@ The lab contains 18 experiment tanks with flow control and air stones to control
 
 <img src="Photos/NPRB_Chinook_Wet_lab_exptanks.jpg" alt="Sample Image" title="Wet Lab After" style="width:50%; height:auto;">
 
-![Uploading Freshwater.png…]()
+<img width="1920" height="1080" alt="Freshwater" src="https://github.com/user-attachments/assets/51f16c41-7fc8-4114-bc7c-62cd7617990b" />
 
 
 ## Equipment Overview
